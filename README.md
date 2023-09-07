@@ -38,6 +38,10 @@ gs             0x63                0x63
 gef➤  x/s 0xffffc933
 0xffffc933:     'A' <repeats 31 times>, "\220\367Q\236\375\367\027\351\301", <incomplete sequence \367>
 
+int 0x80 is the assembly language instruction that is used to invoke system calls in Linux on x86 (i.e., Intel-compatible) processors.
+
+
+
 
 
 
