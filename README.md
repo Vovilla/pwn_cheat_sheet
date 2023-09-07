@@ -47,3 +47,6 @@ EDI is used to hold the destination index, ESI holds the source index and EBX is
 
 
 
+links:
+
+https://defuse.ca/online-x86-assembler.htm     - online x86 assembler
