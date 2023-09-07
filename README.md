@@ -10,7 +10,7 @@ find 0x10, 0x100, 0x3 - find 0x3 in addres space between 0x10 and 0x100
 
 x/8xb 0x1000 - print 8 bytes in hex starting from 0x1000
 
-x/8xw 0x1000 - print 8 words (word is 8 bytes for x64) in hex starting from 0x1000
+x/8xw 0x1000 - print 8 words (word is 4 bytes for x64) in hex starting from 0x1000
 
 x/s 0x1000 - print string starting from 0x1000
 
