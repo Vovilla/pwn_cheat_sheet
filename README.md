@@ -40,7 +40,7 @@ gef➤  x/s 0xffffc933
 
 int 0x80 is the assembly language instruction that is used to invoke system calls in Linux on x86 (i.e., Intel-compatible) processors.
 
-
+EDI is used to hold the destination index, ESI holds the source index and EBX is used as a general purpose index register.
 
 
 
