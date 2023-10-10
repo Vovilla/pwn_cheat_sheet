@@ -2,3 +2,4 @@ pwninit https://github.com/io12/pwninit
 gef https://github.com/hugsy/gef
 ghidra https://www.kali.org/tools/ghidra/
 checksec
+metasploit-framework https://www.kali.org/tools/metasploit-framework/
