@@ -43,6 +43,9 @@ int 0x80 is the assembly language instruction that is used to invoke system call
 EDI is used to hold the destination index, ESI holds the source index and EBX is used as a general purpose index register.
 
 
+libc is under path /lib/x86_64-linux-gnu/libc.so.6
+
+
 
 
 
