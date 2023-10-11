@@ -3,3 +3,4 @@ gef https://github.com/hugsy/gef
 ghidra https://www.kali.org/tools/ghidra/
 checksec
 metasploit-framework https://www.kali.org/tools/metasploit-framework/
+patchelf https://pypi.org/project/patchelf/
