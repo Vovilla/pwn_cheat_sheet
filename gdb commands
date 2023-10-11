@@ -1,1 +1,2 @@
-gef➤  pattern create 200
+gef➤  pattern create 200           - generate pattern for buffer overflow
+gef➤  pattern search $rsp          - find offset of value (for example value of rsp register) in the stack relativly to bottom of the stack
