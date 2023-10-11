@@ -1,1 +1,2 @@
 pwn cyclic 200
+readelf -s libc.so.6 | grep system - find address of function in libc
